@@ -19,6 +19,7 @@
 <hr>
 
 <pre>
+👉 Lucía Dovale Posada
 🧠 Psychology graduate turned computational neuroscientist
 ⚡ Currently taking a Computational Neuroscience course
 🔬 Focus: neuromodeling, neurodata science & neurotechnology
