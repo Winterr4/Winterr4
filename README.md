@@ -30,14 +30,7 @@
 
 <hr>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Connect with me
 
-<p align="center">
-  <a href="mailto:luciadov04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23C0392B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
-  <!-- Replace # with your LinkedIn URL when you have it -->
-  <a href="#"><img src="https://img.shields.io/badge/linkedin-%238E44AD.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-</p>
 
 ## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> My Tools
 
@@ -57,7 +50,17 @@
   <img src="https://img.shields.io/badge/JAVA-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
   <img src="https://img.shields.io/badge/JUPYTER-F37626?style=for-the-badge&logo=jupyter&logoColor=white" alt="Jupyter">
   <img src="https://img.shields.io/badge/ML-9B59B6?style=for-the-badge" alt="ML">
+
+
+## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> Connect with me
+
+<p align="center">
+  <a href="mailto:luciadov04@gmail.com"><img src="https://img.shields.io/badge/gmail-%23C0392B.svg?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/></a>
+  <!-- Replace # with your LinkedIn URL when you have it -->
+  <a href="#"><img src="https://img.shields.io/badge/linkedin-%238E44AD.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+  <a href="https://github.com/TU_USUARIO"><img src="https://img.shields.io/badge/github-%23181717.svg?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
 </p>
+
 
 <br>
 <p align="center">
