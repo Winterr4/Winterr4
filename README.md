@@ -12,7 +12,7 @@
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://readme-typing-svg.herokuapp.com?lines=Computational+Neuroscience+🧠;Neuromodeling+⚡;Neurodata+Science+📊;Psychology+graduate+🎓&center=true&width=750&height=90&size=34&color=B07CFF&vCenter=true" alt="typing">
+    <img src="https://readme-typing-svg.herokuapp.com?lines=Computational+Neuroscience;Neuromodeling;Neurodata+Science;Psychology+graduate&center=true&width=750&height=90&size=34&color=B07CFF&vCenter=true" alt="typing">
   </a>
 </p>
 
