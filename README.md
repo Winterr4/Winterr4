@@ -1,14 +1,13 @@
 <h1 align="center">
-  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px"> Hi, I'm Lucía! 👋🧠 <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px">
+  <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px"> Hi, I'm Lucía! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px">
 </h1>
 
 <p align="center">
   <a href="https://github.com/TU_USUARIO">
-    <img src="https://komarev.com/ghpvc/?username=TU_USUARIO&label=Profile%20views&color=8E44AD&style=flat" alt="profile views" height="28" />
-  </a>
-  <a href="https://github.com/TU_USUARIO">
-    <img src="https://img.shields.io/github/followers/TU_USUARIO?label=Followers&color=C0392B" alt="followers" height="28" />
-  </a>
+ 
+
+
+
 </p>
 
 <p align="center">
@@ -59,19 +58,7 @@
   <img src="https://img.shields.io/badge/ML-9B59B6?style=for-the-badge" alt="ML">
 </p>
 
-## <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="30px"> GitHub Stats
-
+<br>
 <p align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&show_icons=true&theme=dracula" alt="stats">
-  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=TU_USUARIO&theme=dracula" alt="streak">
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&langs_count=8&layout=compact&theme=dracula" alt="languages">
-</p>
-
-<hr>
-
-<p align="center">
-  🟣 Thanks for stopping by. 🔴
+  🟣 Thanks for stopping by 🔴
 </p>
