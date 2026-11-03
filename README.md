@@ -23,7 +23,7 @@
 ⚡ Currently taking a Computational Neuroscience course
 🔬 Focus: neuromodeling, neurodata science & neurotechnology
 📊 Data analysis applied to neural and behavioral data
-🔭 Exploring: brain simulation and computational models
+
 🟣 Always learning something new
 </pre>
 
