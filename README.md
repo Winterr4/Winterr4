@@ -1,17 +1,20 @@
+
+
 <h1 align="center">
   <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px"> Hi, I'm Lucía! <img src="https://media.giphy.com/media/ObNTw8Uzwy6KQ/giphy.gif" width="45px">
 </h1>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
- 
-
-
-
+  <a href="https://github.com/Winterr4">
+    <img src="https://komarev.com/ghpvc/?username=Winterr4&label=views&color=ff69b4&style=flat" alt="views" />
+  </a>
+  <a href="https://github.com/Winterr4">
+    <img src="https://img.shields.io/github/followers/Winterr4?label=followers&color=ff69b4" alt="followers" />
+  </a>
 </p>
 
 <p align="center">
-  <a href="https://github.com/TU_USUARIO">
+  <a href="https://github.com/Winterr4">
     <img src="https://readme-typing-svg.herokuapp.com?lines=Computational+Neuroscience;Neuromodeling;Neurodata+Science;Psychology+graduate&center=true&width=750&height=90&size=34&color=B07CFF&vCenter=true" alt="typing">
   </a>
 </p>
